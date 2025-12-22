@@ -7,10 +7,11 @@ permalink: /about/
 ### weixin ID 
 guomeibao180
 
-### My QR Code
+### Github ID
+guomeibao180
 
 ### Region
-shandong,china
+ShanDong,China
 
-### Contact me
+### email@
 [guomeibao180@icloud.com](mailto:guomeibao180@icloud.com)
